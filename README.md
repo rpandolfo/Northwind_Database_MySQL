@@ -40,7 +40,7 @@ The workbook gradually develops from foundational database principles to advance
 
 ---
 
-# 3.2 Day 2 — Basic SQL Queries (Northwind Database)
+# Basic SQL Queries (Northwind Database)
 
 | Task | Objective | SQL Query |
 |------|-----------|-----------|
