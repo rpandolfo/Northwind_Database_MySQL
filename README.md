@@ -1,5 +1,9 @@
 # 📚 Northwind Database Analysis Using MySQL Workbench
 
+[![SQL](https://img.shields.io/badge/SQL-Query%20Analysis-4479A1?logo=postgresql&logoColor=white)]()
+[![Database](https://img.shields.io/badge/Database-MySQL-00618A?logo=mysql&logoColor=white)]()
+[![Project Status](https://img.shields.io/badge/Status-Completed-success)]()
+
 ## 📝 Project Summary
 
 This project provides a structured introduction to relational databases and SQL querying using the **Northwind dataset**, completed during a **Data Technician Bootcamp**. The work mirrors the analytical tasks expected of a **Junior Data Analyst**.
